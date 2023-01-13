@@ -5,7 +5,7 @@ import './Graph.css';
 
 /**
  * Props declaration for <Graph />
- */
+ */ 
 interface IProps {
     data: ServerRespond[],
 }
